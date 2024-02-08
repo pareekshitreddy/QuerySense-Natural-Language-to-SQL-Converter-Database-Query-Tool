@@ -38,7 +38,7 @@ To install and run the application locally, follow these steps:
 
 1. Clone this repository to your local machine.
     ```bash
-    git clone https://github.com/your/repository.git
+    git clone https://github.com/pareekshitreddy/QuerySense-Natural-Language-to-SQL-Converter-Database-Query-Tool
     ```
 
 2. Install dependencies.
@@ -58,13 +58,3 @@ To install and run the application locally, follow these steps:
 - **User Authentication**: Introduce user authentication for secure access to databases.
 - **Integration with External APIs**: Allow integration with external APIs for data enrichment and expansion of query capabilities.
 
-## Contributors:
-
-- [Your Name](https://github.com/yourusername)
-- [Contributor 2](https://github.com/contributor2)
-
-## License:
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to contribute, report issues, or provide suggestions for improvements!
