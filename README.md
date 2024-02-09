@@ -1,6 +1,6 @@
 # QuerySense: Natural Language to SQL Converter & Database Query Tool
 
-End-to-end Streamlit application enables seamless conversion of natural language queries into SQL (Structured Query Language) queries, along with querying an SQLite database. Leveraging the Gemini-pro API for language model capabilities, it offers a user-friendly interface for interacting with databases using plain English queries.
+End-to-end LLM application enables seamless conversion of natural language queries into SQL (Structured Query Language) queries, along with querying an SQLite database. Leveraging the Gemini-pro API for language model capabilities, it offers a user-friendly interface for interacting with databases using plain English queries.
 
 ## Features:
 
